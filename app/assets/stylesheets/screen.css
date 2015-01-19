@@ -283,13 +283,26 @@ h1:after {
     z-index: 1;
 }
 
-h2,h3,h4 {
+h2 {
     color: #2d4159;
     font-size: 1.3em;
     line-height: 1.5em;
     margin: .2em 0 .5em;
 }
 
+h3 {
+    color: #2d4159;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    margin: .15em 0 .4em;
+}
+
+h4 {
+    color: #2d4159;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin: .1em 0 .3em;
+}
 .comment {
     font-size: .9em;
     border-top: 1px solid #ddd;
